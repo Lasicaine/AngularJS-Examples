@@ -1,0 +1,18 @@
+div {
+      max-width: 350px;
+      background-color: slategrey;
+      border: solid 2px;
+      border-color: silver;
+      word-break: break-all;
+    }
+input {
+        float: right;
+        max-width: 200px;
+      }
+h1 {
+     color: dimgray
+    }
+p, h3 {
+        padding: 3px;
+        margin: 3px;
+      }
